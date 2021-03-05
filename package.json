@@ -33,7 +33,6 @@
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
-    "gatsby-disable-404": "^0.2.1",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "prettier": "2.2.1"
   },
