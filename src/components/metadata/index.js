@@ -16,8 +16,7 @@ const Metadata = ({ websiteMeta, uid }) => {
     `
   )
   
-  const locationUrl = "https://smartdoq.netlify.app/"+uid;
-  console.log(locationUrl)
+  const locationUrl = "https://www.smart-doq.com/"+uid;
   const titleText = websiteMeta.title.text;
   const websiteDescription = websiteMeta.description.text;
   const linkShareImage = websiteMeta.meta_link_share_image?websiteMeta.meta_link_share_image.url:logo;
@@ -41,7 +40,7 @@ const Metadata = ({ websiteMeta, uid }) => {
       <meta property="og:url" content={locationUrl}/>
       <meta name="description" content={metaDescription} />
       <script src="https://unpkg.com/feather-icons"></script>
-<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
     </Helmet>
   )
 }
