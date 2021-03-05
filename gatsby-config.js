@@ -10,6 +10,7 @@ module.exports = {
     },
     /* Your site config here */
     plugins: [
+        'gatsby-plugin-react-helmet',
         'gatsby-disable-404',
         {
             resolve: 'gatsby-plugin-web-font-loader',
