@@ -21,6 +21,20 @@ module.exports = {
                 },
             },
         },
+        {
+            resolve: `gatsby-plugin-manifest`,
+            options: {
+              name: `curtains`,
+              short_name: `curtains`,
+              start_url: `/`,
+              background_color: `#663399`,
+              theme_color: `#663399`,
+              display: `standalone`,
+              crossOrigin: `use-credentials`,
+              cache_busting_mode: `none`,
+              icon: `static/favicons/android-chrome-512x512.png`,
+            },
+          },
         /*
          * Gatsby's data processing layer begins with “source”
          * plugins. Here the site sources its data from prismic.io.
