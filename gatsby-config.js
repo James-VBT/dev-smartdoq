@@ -24,9 +24,9 @@ module.exports = {
             options: {
                 repositoryName: 'recipedia',
                 accessToken:
-                    'MC5ZRVpWUWhFQUFDQUEyaEsx.au-_vR03WgVhQCbvv73vv73vv70lIXQqTO-_ve-_ve-_vX8lfu-_vXvvv71y77-977-9YO-_vQ8',
+                    'MC5ZRmg5RXhNQUFDTUFKVVBa.PWcz77-977-977-9CkHvv70077-977-977-9Ye-_vX5uCjHvv712WzdJUe-_vQ0vZUE577-9',
                 releaseID: 'develop',
-                linkResolver: ({ node, key, value }) => (doc) => {
+                linkResolver: ({ node, key, value }) => (doc) => {s
                     // Your link resolver
                 },
                 fetchLinks: [],
