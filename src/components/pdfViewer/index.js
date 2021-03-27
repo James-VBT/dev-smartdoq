@@ -32,7 +32,6 @@ function PdfViewer({ fileURL, closePreview }) {
                 <div className="overlay">
                     
                 <Icon.X 
-                    className="pdf-viewer-item"
                     className="overlay-close pdf-viewer-close" 
                     onClick={(e) => closePreview()}/>
 

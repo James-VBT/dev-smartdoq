@@ -30,8 +30,7 @@ function VideoViewer({ fileURL, closePreview }) {
                 <div className="overlay">
                     
                     <Icon.X 
-                        className="pdf-viewer-item"
-                        className="overlay-close pdf-viewer-close" 
+                        className="overlay-close pdf-viewer-item"
                         onClick={(e) => closePreview()}/>
 
                     <Document file={fileURL} onLoadSuccess={onDocumentLoadSuccess}>
@@ -55,8 +54,7 @@ function VideoViewer({ fileURL, closePreview }) {
     return (
         <>
             <Icon.X 
-                className="pdf-viewer-item"
-                className="overlay-close pdf-viewer-close" 
+                className="overlay-close pdf-viewer-item"
                 onClick={(e) => closePreview()}/>
 
             <div className="scroll-wrapper">
