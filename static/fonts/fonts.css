@@ -96,3 +96,31 @@
     font-family: "SweetSans-Regular";
     src: url("./sweet/SweetSans-Regular.otf");
   }
+  @font-face {
+    font-family: "apercu_bold_italic";
+    src: url("./apercu/apercu_bold_italic.otf");
+  }
+  @font-face {
+    font-family: "apercu_bold";
+    src: url("./apercu/apercu_bold.otf");
+  }
+  @font-face {
+    font-family: "apercu_medium_italic";
+    src: url("./apercu/apercu_medium_italic.otf");
+  }
+  @font-face {
+    font-family: "apercu_medium";
+    src: url("./apercu/apercu_medium.otf");
+  }
+  @font-face {
+    font-family: "apercu_mono";
+    src: url("./apercu/apercu_mono.otf");
+  }
+  @font-face {
+    font-family: "apercu_regular_italic";
+    src: url("./apercu/apercu_regular_italic.otf");
+  }
+  @font-face {
+    font-family: "apercu_regular";
+    src: url("./apercu/apercu_regular.otf");
+  }
