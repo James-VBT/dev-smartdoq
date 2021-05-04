@@ -124,3 +124,51 @@
     font-family: "apercu_regular";
     src: url("./apercu/apercu_regular.otf");
   }
+  @font-face {
+    font-family: "Canela-Black";
+    src: url("./canela/Canela-Black.otf");
+  }
+  @font-face {
+    font-family: "Canela-BlackItalic";
+    src: url("./canela/Canela-BlackItalic.otf");
+  }
+  @font-face {
+    font-family: "Canela-Bold";
+    src: url("./canela/Canela-Bold.otf");
+  }
+  @font-face {
+    font-family: "Canela-BoldItalic";
+    src: url("./canela/Canela-BoldItalic.otf");
+  }
+  @font-face {
+    font-family: "Canela-Light";
+    src: url("./canela/Canela-Light.otf");
+  }
+  @font-face {
+    font-family: "Canela-LightItalic";
+    src: url("./canela/Canela-LightItalic.otf");
+  }
+  @font-face {
+    font-family: "Canela-Medium";
+    src: url("./canela/Canela-Medium.otf");
+  }
+  @font-face {
+    font-family: "Canela-MediumItalic";
+    src: url("./canela/Canela-MediumItalic.otf");
+  }
+  @font-face {
+    font-family: "Canela-Regular";
+    src: url("./canela/Canela-Regular.otf");
+  }
+  @font-face {
+    font-family: "Canela-RegularItalic";
+    src: url("./canela/Canela-RegularItalic.otf");
+  }
+  @font-face {
+    font-family: "Canela-ThinItalic";
+    src: url("./canela/Canela-ThinItalic.otf");
+  }
+  @font-face {
+    font-family: "Canela-Thin";
+    src: url("./canela/Canela-Thin.otf");
+  }
