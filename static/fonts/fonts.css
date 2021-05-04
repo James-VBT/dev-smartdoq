@@ -53,7 +53,7 @@
     src: url("./apercu/Apercu-Medium.otf");
   }
   @font-face {
-    font-family: "Apercu Light";
+    font-family: "Apercu-Light";
     src: url("./apercu/Apercu-Light.otf");
   }
   @font-face {
@@ -191,4 +191,16 @@
   @font-face {
     font-family: "SuperGroteskPro-Medium";
     src: url("./superGrotesk/SuperGroteskPro-Medium.otf");
+  }
+  @font-face {
+    font-family: "Apercu-LightItalic";
+    src: url("./apercu/Apercu-LightItalic.otf");
+  }
+  @font-face {
+    font-family: "Apercu-Medium";
+    src: url("./apercu/Apercu-Medium.otf");
+  }
+  @font-face {
+    font-family: "Apercu-MediumItalic";
+    src: url("./apercu/Apercu-MediumItalic.otf");
   }
