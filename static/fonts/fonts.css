@@ -64,3 +64,35 @@
     font-family: "Avenir Next";
     src: url("./avenir/Avenir-Next.ttc");
   }
+  @font-face {
+    font-family: "SweetSans-Bold";
+    src: url("./sweet/SweetSans-Bold.otf");
+  }
+  @font-face {
+    font-family: "SweetSans-BoldItalic";
+    src: url("./sweet/SweetSans-BoldItalic.otf");
+  }
+  @font-face {
+    font-family: "SweetSans-Italic";
+    src: url("./sweet/SweetSans-Italic.otf");
+  }
+  @font-face {
+    font-family: "SweetSans-LightItalic";
+    src: url("./sweet/SweetSans-LightItalic.otf");
+  }
+  @font-face {
+    font-family: "SweetSans-Light";
+    src: url("./sweet/SweetSans-Light.otf");
+  }
+  @font-face {
+    font-family: "SweetSans-Medium";
+    src: url("./sweet/SweetSans-Medium.otf");
+  }
+  @font-face {
+    font-family: "SweetSans-MediumItalic";
+    src: url("./sweet/SweetSans-MediumItalic.otf");
+  }
+  @font-face {
+    font-family: "SweetSans-Regular";
+    src: url("./sweet/SweetSans-Regular.otf");
+  }
