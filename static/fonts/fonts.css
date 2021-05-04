@@ -53,6 +53,10 @@
     src: url("./apercu/Apercu-Medium.otf");
   }
   @font-face {
+    font-family: "Apercu Light";
+    src: url("./apercu/Apercu-Light.otf");
+  }
+  @font-face {
     font-family: "Avenir";
     src: url("./avenir/Avenir-Next.ttc");
   }
