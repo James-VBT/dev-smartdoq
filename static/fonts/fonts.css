@@ -172,3 +172,23 @@
     font-family: "Canela-Thin";
     src: url("./canela/Canela-Thin.otf");
   }
+  @font-face {
+    font-family: "SuperGroteskPro-Bold";
+    src: url("./superGrotesk/SuperGroteskPro-Bold.otf");
+  }
+  @font-face {
+    font-family: "SuperGroteskPro-Cond";
+    src: url("./superGrotesk/SuperGroteskPro-Cond.otf");
+  }
+  @font-face {
+    font-family: "SuperGroteskPro-CondBold";
+    src: url("./superGrotesk/SuperGroteskPro-CondBold.otf");
+  }
+  @font-face {
+    font-family: "SuperGroteskPro-CondMedium";
+    src: url("./superGrotesk/SuperGroteskPro-CondMedium.otf");
+  }
+  @font-face {
+    font-family: "SuperGroteskPro-Medium";
+    src: url("./superGrotesk/SuperGroteskPro-Medium.otf");
+  }
