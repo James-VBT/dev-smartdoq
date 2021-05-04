@@ -58,11 +58,11 @@
   }
   @font-face {
     font-family: "Avenir";
-    src: url("./avenir/Avenir-Next.ttc");
+    src: url("./avenir/Avenir-Next.otf");
   }
   @font-face {
-    font-family: "Avenir Next";
-    src: url("./avenir/Avenir-Next.ttc");
+    font-family: "Avenir-Next";
+    src: url("./avenir/Avenir-Next.otf");
   }
   @font-face {
     font-family: "SweetSans-Bold";
