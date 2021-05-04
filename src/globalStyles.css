@@ -99,7 +99,7 @@ display: none;
 }
 
 .overlay .scroll-wrapper {
-width: 100%;
+width: 90%;
 height: 100vh;
 }
 
@@ -421,6 +421,7 @@ canvas.react-pdf__Page__canvas {
   text-align: center;
   display: flex;
   flex-direction: column;
+  padding: 5px;
 }
 
 .pdfGalleryThumb {
